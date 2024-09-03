@@ -1,0 +1,162 @@
+{
+    "Login": {
+        "tx": {
+            "Comando": "Login",
+            "Dispositivo": "",
+            "Ip": "",
+            "EMEI": ""
+        },
+        "rx": {
+            "Comando": "RtaLogin",
+            "Operador": "Juan Perez",
+            "Tarjeta": 1234567890,
+            "ImporteMin": 1000,
+            "ImporteMax": 200000,
+            "ImporteManual": true,
+            "Importes": [1000, 2000, 10000],
+            "Error": 0,
+            "ErrorDesc": ""
+        }
+    },
+
+    "Vivo": {
+        "tx": {
+            "Comando": "Vivo"
+        },
+        "rx": {
+            "Comando": "RtaVivo",
+            "TurnoAbierto": true,
+            "TurnoEstado": "Verde",
+            "IdOperacionPendiente": "",
+            "Error": 0,
+            "ErrorDesc": ""
+        }
+    },
+
+    "ConsultaTerminal": {
+        "tx": {
+            "Comando": "ConsultaTerminal",
+            "QR": ""
+        },
+        "rx": {
+            "Comando": "RtaConsultaTerminal",
+            "Fabricante": "",
+            "Juego": "",
+            "UID": "",
+            "Error": 0,
+            "ErrorDesc": ""
+        }
+    },
+
+    "Operacion_SubirDinero": {
+        "tx": {
+            "Comando": "Operacion_SubirDinero",
+            "QR": "",
+            "Importe": 10000.15
+        },
+        "rx": {
+            "Comando": "RtaOperacion_SubirDinero",
+            "IdOperacion": "1234",
+            "Error": 0,
+            "ErrorDesc": ""
+        }
+    },
+
+    "ConsultaOperacion": {
+        "tx": {
+            "Comando": "ConsultaOperacion",
+            "IdOperacion": ""
+        },
+        "rx": {
+            "Comando": "RtaConsultaOperacion",
+            "IdOperacion": "",
+            "Error": 0,
+            "ErrorDesc": ""
+        }
+    },
+
+    "UltimosMovimientos": {
+        "tx": {
+            "Comando": "UltimosMovimientos"
+        },
+        "rx": {
+            "Comando": "RtaUltimosMovimientos",
+            "Movimientos": [{
+                "Fabricante": "ARUZE",
+                "Juego": "Fu Lai Cai  Sta",
+                "UID": "016-2126",
+                "Importe": "123",
+                "FechaHora": "28/08/2024, 12:40:52"
+            },
+            {
+                "Fabricante": "I.G.T.",
+                "Juego": "Dragon of FE",
+                "UID": "016-2134",
+                "Importe": "567",
+                "FechaHora": ""
+            }],
+            "Error": 0,
+            "ErrorDesc": ""
+        }
+    },
+
+    "ListaUID": {
+        "tx": {
+            "Comando": "ListaUID",
+            "UID": ""
+        },
+        "rx": {
+            "Comando": "RtaListaUID",
+            "Terminales": [
+                {
+                    "Vinculada": false,
+                    "UID": "016-0149",
+                    "Fabricante": "I.G.T.",
+                    "Juego": "Top Dollar"
+                },
+                {
+                    "Vinculada": false,
+                    "UID": "016-0152",
+                    "Fabricante": "I.G.T.",
+                    "Juego": "Super Sally´s"
+                },
+                {
+                    "Vinculada": false,
+                    "UID": "016-0154",
+                    "Fabricante": "I.G.T.",
+                    "Juego": "Stinkin' Rich"
+                },
+                {
+                    "Vinculada": false,
+                    "UID": "016-0156",
+                    "Fabricante": "I.G.T.",
+                    "Juego": "Totally Puzzled"
+                },
+                {
+                    "Vinculada": "001600000000002",
+                    "UID": "016-0184",
+                    "Fabricante": "Aristocrat",
+                    "Juego": "Dolphin T."
+                }
+            ],
+            "Error": 0,
+            "ErrorDesc": ""
+        }
+    },
+
+    "VinculaTerminal": {
+        "tx": {
+            "Comando": "VinculaTerminal",
+            "QR": "",
+            "UID": ""
+        },
+        "rx": {
+            "Comando": "RtaVinculaTerminal",
+            "Fabricante": "",
+            "Juego": "",
+            "UID": "",
+            "Error": 0,
+            "ErrorDesc": ""
+        }
+    }
+}

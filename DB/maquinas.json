@@ -1,0 +1,5438 @@
+[
+	{
+		"codigo": "001600000000001",
+		"uuid": "016-0149",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Top Dollar"
+	},
+	{
+		"codigo": "001600000000002",
+		"uuid": "016-0152",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Super Sally´s"
+	},
+	{
+		"codigo": "001600000000004",
+		"uuid": "016-0154",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Stinkin' Rich"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0156",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Totally Puzzled"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0184",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Dolphin T."
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0185",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Dolphin T."
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0186",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Queen Of Nile"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0187",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Dolphin T."
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0188",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Dolphin T."
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0192",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Queen Of Nile"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0193",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Dolphin T."
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0194",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Dolphin T."
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0205",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wolf Run"
+	},
+	{
+		"codigo": "001600000000005",
+		"uuid": "016-0341",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Moolah !"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0346",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Mystical Mermai"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0366",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Mystical Mermai"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0367",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Pharaoh'S Fortu"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0368",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Hoot Loot"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0369",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cleopatra"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0370",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Enchanted U."
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0371",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Buffet Mania"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0372",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Dolphin T."
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0375",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Dolphin T."
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0376",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Dolphin T."
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0378",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Dolphin T."
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0379",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Dolphin T."
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0380",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wolf Run"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0398",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Dolphin T."
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0475",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Pin Ball"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0484",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Pin Ball"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0489",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Pharaoh Fortune"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0515",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cleopatra"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0516",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Totally Puzzled"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0517",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cleopatra"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0540",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "Treasure Diver"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0546",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "The Blues B."
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0547",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Queen Of Cairo"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0548",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Golden Lotus"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0549",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "LuckyLuigi'sPiz"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0550",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Oceans Dreams"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0551",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Golden Times"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0562",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Dolphin T."
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0563",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Dolphin T."
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0593",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Jewels Of India"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0594",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Soaring Wings"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0595",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Princess Of Par"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0596",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Maltese Fortune"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0597",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Soaring Wings"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0598",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Princess Of Par"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0599",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cleopatra"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0600",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Pharaoh´s Gold"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0601",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Alien"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0602",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wild For Dolphi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0603",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Stinkin' Rich"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0604",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Hoot Loot"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0605",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cleopatra"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0606",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "The Enchantment"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0607",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Totally Puzzled"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0608",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Pharaoh'S Fortu"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0609",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Stinkin' Rich"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0610",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Alien"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0611",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "African Dusk"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0612",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Tiki Torch"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0613",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "White Water"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0614",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Flame Of Olympu"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0615",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Flame Of Olympu"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0616",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Geisha"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0625",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Treasures Of Tr"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0626",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Majestic Sea"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0627",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cleopatra"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0628",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Twin Win"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0629",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cats 30L"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0630",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Alien"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0631",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Aztec Temple"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0632",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Russian Tre"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0633",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Flame Of Olympu"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0637",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Black Mustang"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0639",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Roulette"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0640",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Roulette"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0641",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Roulette"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0642",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Roulette"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0643",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Roulette"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0647",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wolf Run"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0648",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cleopatra II"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0649",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Alien"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0650",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Pharaoh´s Gold"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0651",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cleopatra"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0652",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Super Cherry"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0653",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Pharaoh'S Fortu"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0654",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Alien"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0682",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "Silk Kimono"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0689",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Geisha"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0692",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Geisha"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0731",
+		"NombreFabricante": "Unidesa",
+		"NombreJuego": "Wild Race"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0732",
+		"NombreFabricante": "Unidesa",
+		"NombreJuego": "Wild Race"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0733",
+		"NombreFabricante": "Unidesa",
+		"NombreJuego": "Wild Race"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0734",
+		"NombreFabricante": "Unidesa",
+		"NombreJuego": "Wild Race"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0735",
+		"NombreFabricante": "Unidesa",
+		"NombreJuego": "Wild Race"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0736",
+		"NombreFabricante": "Unidesa",
+		"NombreJuego": "Wild Race"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0737",
+		"NombreFabricante": "Unidesa",
+		"NombreJuego": "Wild Race"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0738",
+		"NombreFabricante": "Unidesa",
+		"NombreJuego": "Wild Race"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0739",
+		"NombreFabricante": "Unidesa",
+		"NombreJuego": "Wild Race"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0740",
+		"NombreFabricante": "Unidesa",
+		"NombreJuego": "Wild Race"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0741",
+		"NombreFabricante": "Unidesa",
+		"NombreJuego": "Wild Race"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0742",
+		"NombreFabricante": "Unidesa",
+		"NombreJuego": "Wild Race"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0773",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "DaVinci Diamond"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0774",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Pharaohs Gold"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0775",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Coyote Moon"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0776",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Russian Tre"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0777",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cleopatra II"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0778",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Coyote Moon"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0779",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Pharaohs Gold"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0780",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "White Orchid"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0781",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "ShakeYourBooty"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0782",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Bombay"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0968",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Triple D.B. 7´s"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0969",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Triple D. RW&B"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0970",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Triple Double D"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-0971",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "White Ice"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1018",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Noah´s Ark"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1019",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cats"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1020",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Mystical Mermai"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1021",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cleopatra"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1144",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "Prin.Amazon"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1146",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "Lasting Moments"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1149",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "Moonlight Magic"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1151",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "Prin.Amazon"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1156",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Bombay"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1157",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Coyote Moon"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1158",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "DaVinci Diamond"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1159",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Kitty Glitter M"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1160",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Noahs Ark"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1161",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Rembrandt Riche"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1162",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cats"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1163",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Treasures Of Tr"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1164",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "White Orchid"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1165",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wolf Run"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1166",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Happy Lantern"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1167",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "High Stakes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1168",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Sahara Gold"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1169",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Magic Pearl"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1170",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Sahara Gold"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1171",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Happy Lantern"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1172",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "High Stakes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1173",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Sahara Gold"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1174",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "STARS OF EGYPT"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1175",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "Ocean Magic"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1176",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "EYES OF LUCK"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1177",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "Knight Tale"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1178",
+		"NombreFabricante": "Spielo",
+		"NombreJuego": "Gambling Green "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1179",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "WILD NATURE"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1180",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "ANVIL OF GOLD"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1181",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "KING SOLOMON'S "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1186",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Pyramid Magic"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1187",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "WILD SPLASH"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1188",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Jackpot Catcher"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1189",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Lucky Count"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1190",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Fire Light"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1191",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Jaguar Mist"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1192",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "BUFFALO"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1193",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "TIMBER WOLF"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1194",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "Egyptian Eyes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1195",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "Clairvoyant Cat"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1196",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "Selexion"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1197",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "African Diamond"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1198",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "MULTI GAME"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1199",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "MULTI GAME"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1200",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "MULTI GAME"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1201",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "MULTI GAME"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1202",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "Multigame"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1203",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "MULTI GAME"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1204",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "MultiGame Set4"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1205",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "MultiGame Set6"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1206",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "MultiGame Set2"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1207",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "MultiGame Set4"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1208",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "Pirate Ship"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1209",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "Wil Shootout"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1210",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "Zeus III"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1211",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "Mystical Fortun"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1254",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "Bier Haus"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1255",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "Mystical Fortun"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1256",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "Wild Shootout"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1257",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "Zeus III"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1258",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "MultiGame Set6"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1259",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "MultiGame Set4"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1260",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "MultiGame Set2"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1261",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "MultiGame Set6"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1268",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "King Of Africa"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1269",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "MysticalUnicorn"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1270",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "Bier Haus"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1271",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "Wicked Beauty"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1272",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "Spartacus"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1273",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "Multi Game Ches"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1274",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "Bier Haus"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1275",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "Spartacus Gladi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1313",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Bombay"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1314",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "White Orchid"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1315",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Moon Warriors"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1316",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Coyote Moon"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1317",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wolf Run"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1318",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cats"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1319",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Kitty Glitter"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1320",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cleopatra"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1321",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wild Wolf"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1322",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "DaVinci Diamond"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1323",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "The Blues B."
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1324",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Samurai Gold"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1325",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Ms. Clara T"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1326",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Oceans Dreams"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1327",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Multiwin 8"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1328",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Multiwin 8"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1329",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Multiwin 10"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1330",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Multiwin 11"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1331",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Multiwin 8"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1332",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Multiwin 7"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1333",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Electric Nights"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1334",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "High Hits"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1335",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Hotter Than Hot"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1336",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Multiwin 8"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1383",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "African Diamond"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1384",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "Ancient Dragon"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1385",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "Band of Gypsies"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1386",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "China Shores"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1387",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "Dynasty of Gold"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1388",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "EASTERN CHARM"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1389",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "Jumpin Jalapeno"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1390",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "Star of Arabia"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1391",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "Treasure Voyage"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1392",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "Wealth"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1393",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wolf Run Party"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1394",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "CoyoteMoonParty"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1395",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Mystical MParty"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1396",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Trailer PParty"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1397",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Mystical MParty"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1398",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wolf Run Party"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1399",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "CoyoteMoonParty"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1400",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Mystical MParty"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1401",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Trailer PParty"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1402",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Mermaid Party"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1407",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1408",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1409",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1410",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1411",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1412",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "B&W Wild Jackpo"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1413",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Stars & Bars"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1414",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Black Gold Wild"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1415",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "B&W Wild Jackpo"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1416",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Stars & Bars"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1417",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Black Gold Wild"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1418",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "777 Wild Jackpo"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1419",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "777 Wild Jackpo"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1420",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Golden Glory"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1421",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Dragon Climber"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1422",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Diamond Dreams"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1423",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Dream Dragon"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1424",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Gold City"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1425",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Falcon Fortune"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1426",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Lucky Ya ha Hai"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1427",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Mayan beauty"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1428",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Moon Shot"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1429",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Paws Galore"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1531",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Aztec Dream"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1532",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Fire Light"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1533",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "TIMBER WOLF"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1534",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Magic Princess"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1535",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Maia Blue Plane"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1536",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Chicken 2"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1537",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Fire Light"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1538",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Timber Wolf"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1539",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Crusader's Hear"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1540",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Thunder Of Zeus"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1541",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Wonder4"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1542",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Wonder4"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1549",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Gong Xi Fa Cai"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1550",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Gong Xi Fa Cai"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1551",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Gong Xi Fa Cai"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1552",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Gong Xi Fa Cai"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1559",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Lucky Horse"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1560",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "The Swordsman"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1561",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "TheMighty Atlas"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1562",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Golden Memories"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1563",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "White Falls"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1564",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Day of the dead"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1565",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Tales of Hercul"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1566",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "TheMighty Atlas"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1567",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Michelangelo"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1568",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "White Falls"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1571",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Geisha"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1572",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Geisha"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1573",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Mistical Mermai"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1574",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cleopatra"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1575",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Alien"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1576",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cleopatra"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1608",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Flame Of Olympu"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1609",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Geisha"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1610",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "treasure King"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1611",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Black Mustang"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1612",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Pirates"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1613",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Geisha"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1622",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "Multi Game Ches"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1623",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "Multi Game Ches"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1624",
+		"NombreFabricante": "WMS",
+		"NombreJuego": "Bier Haus"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1629",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Pinball Roulett"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1630",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Pinball Roulett"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1631",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Buffalo Legends"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1632",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Timberwolf Lege"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1633",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Wolf Moon"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1634",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Queen Of Iguazu"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1635",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Wonder 4 Specia"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1636",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Wonder 4 Specia"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1637",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Sparkilng Royal"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1638",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Theres The Gold"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1639",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Fire Light II"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1640",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Drango’s Vault"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1641",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "Gambling Green"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1642",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "Magic Maroon"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1643",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "Sweet Sunshine"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1644",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "Amazing Ambar"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1645",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "Sphinx Wild"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1646",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "Gambling Green"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1647",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cat Paws"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1648",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "The Swordsman"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1649",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Royal Lion"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1650",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Sumatran Storm"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1651",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Lady Swan      "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1652",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Lucky Horse"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1656",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wild Bear Paws"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1661",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Carnival Myster"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1662",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Panda"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1676",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Pelican Pete"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1681",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Pelican Pete"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1682",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Indian Princess"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1684",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "100 Lions"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1695",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Brazilia"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1697",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Island Eyes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1698",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "The Swordsman"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1699",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Pets"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1700",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Jade Emperor"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1701",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Vulcan"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1702",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Dragon Charm"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1703",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Wonder Wizards"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1704",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Mystique Queen"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1705",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Pearl Power"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1706",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Wild Spirit"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1707",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Red Rose"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1708",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Sparkle Stars"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1709",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Light Em Up"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1710",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Soul Qeen"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1711",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "WINGS OF FIRE"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1712",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Pinball Roulett"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1713",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "WC"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1714",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "WC"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1715",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "WC"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1716",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "WC"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1719",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Goddess of Gold"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1720",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Shadow Of The P"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1721",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "The Swordman"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1722",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Island Eyes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1723",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Dragon Fairy"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1724",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "GoddessOfValhal"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1725",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Prowling Panthe"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1726",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "BigHorn Bucks"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1727",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cheeky Lil Devi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1746",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Fish in a Barre"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1747",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Night Sky"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1748",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Lucky Fox"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1749",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Tundering Buffa"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1750",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Pinball Roulett"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1771",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "TIGER PRINCE"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1772",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Silver Treasure"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1773",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Golden Amulet"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1774",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "TIGER QUEEN"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1775",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Silver Treasure"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1776",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Dolphin T."
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1777",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Dolphin T."
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1778",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Magic Pearl"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1779",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Tiki FIre"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1780",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Geisha"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1781",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Sun Money"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1782",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Jade Emperador"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1783",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Double Chance"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1784",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Triple Magic"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1785",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Dragon Charm"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1786",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Totem Treasure"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1787",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Legends Of The"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1788",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "WINGS OF FIRE"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1789",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Heart Queen"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1790",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Multi Win 8"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1791",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wan Yi Ru Shi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1792",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wan Yi Ru Shi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1793",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wan Yi Ru Shi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1794",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wan Yi Ru Shi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1795",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "Magnificent Mag"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1796",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "Incredible Indi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1797",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "GOLDEN ZODIAC"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1798",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "GOLDEN PROSPERI"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1799",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Wonder 4 Jackpo"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1800",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Golden Peach"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1801",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Golden South"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1802",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "White Akoya"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1803",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Joe Blow Gold"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1804",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Selene"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1811",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "5 Treasures"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1812",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "5 Treasures"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1813",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "5 Treasures"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1814",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "5 Treasures"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1821",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "White Akoya"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1822",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Golden South"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1823",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "LONGHORN DELUXE"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1824",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "WILD LEPRECOINS"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1825",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Lion of Venice"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1826",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "SWEET MOONLIGHT"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1827",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "BIRDS OF PAY"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1828",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Garden Of Amazo"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1829",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "Band of Gypsies"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1830",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "Star of Arabia"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1831",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "Wealth"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1832",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "Treasure Voyage"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1833",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "Dynasty of Gold"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1834",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "Jumpin'Jalapeno"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1835",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Hot to Drop"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1836",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Triple Heist"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1837",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Super Bulls"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1838",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Mighty Fortune"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1839",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Powerconis Lepr"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1840",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Rich Girl"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1841",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wheel Strike"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1842",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Aztec Fury"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1843",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Red Hot Jocker"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1844",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Aztec Adventure"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1845",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Ice Wizard"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1846",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Fire Wizard"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1847",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Ice Wizard"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1848",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Golden Lion"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1849",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Mighty Panther"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1850",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "WildFire Riches"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1851",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Rampaging Rhino"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1852",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Mustang Money"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1853",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Twince The Mone"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1854",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Run With The Wo"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1855",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "ReelsOfWheels1"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1856",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Lucky Ye Ha Hai"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1857",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Reel Wheell Hor"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1858",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Reels Of Wheels"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1859",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Thunder Dragon"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1860",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1861",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1862",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1863",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1864",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1865",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1866",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1867",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1868",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1869",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1870",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1871",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1872",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1873",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1874",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1875",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1876",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "SWEET MOONLIGHT"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1877",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "WONDER 4 JACKPO"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1878",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "GOLDEN ZODIAC"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1879",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "WILD LEPRE COIN"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1880",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Golden Princess"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1881",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "SWEET DAYBREAK"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1882",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "WONDER 4 JACKPO"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1883",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "GOLDEN PROSPERI"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1884",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "BIRDS OF PAY"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1885",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "MISS LIBERTY"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1896",
+		"NombreFabricante": "Sielcon",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1897",
+		"NombreFabricante": "Sielcon",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1898",
+		"NombreFabricante": "Sielcon",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1899",
+		"NombreFabricante": "Sielcon",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1900",
+		"NombreFabricante": "Sielcon",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1901",
+		"NombreFabricante": "Sielcon",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1902",
+		"NombreFabricante": "Sielcon",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1903",
+		"NombreFabricante": "Sielcon",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1910",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "5 Treasures"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1911",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "5 Treasures"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1912",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "5 Treasures"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1913",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "5 Treasures"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1914",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "5 Treasures"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1915",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "5 Treasures"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1916",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Lunar  Disc"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1917",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wild Wolf"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1918",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Dragon Spell"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1919",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Fu Tao Peach Of"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1920",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Regal Riches"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1921",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Temple Of Fire "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1922",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wu Dragon"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1923",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Lotus Flower"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1924",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Dragons Vs Pand"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1925",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Prosperity Pear"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1926",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cats Fg"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1927",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Mistress of the"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1928",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Pyramid treasur"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1929",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Ocean Spirit"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1930",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "I Heart Triple "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1931",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Hot Hit 777 Dia"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1932",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Hot Hit Rainbow"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1933",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Spitfire Triple"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1934",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Hot Hit Rainbow"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1935",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Red Hot Tamales"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1936",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "China Gold"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1937",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "HailŽn Diamonds"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1938",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Ancient Treasur"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1939",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Jungle Princess"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1940",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Mystique Queen"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1941",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Mystique Queen"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1942",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Jungle Princess"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1943",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Golden Lion 2"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1944",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Dragon Charm"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1945",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Dragon Climber"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1946",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Electric Nights"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1947",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Run With The Wo"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1948",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Fortune Horse"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1949",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Magnificent Mag"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1950",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Sphinx 3D"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1951",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Sphinx 3D"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1952",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Aladdins 3 D"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1953",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Aladdins 3 D"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1954",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1955",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1956",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1957",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1958",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1959",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1960",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1961",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1962",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1963",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1964",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1965",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1966",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "88 Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1967",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Double Dragons"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1968",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Peking Panda"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1969",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Snake"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1970",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Peking Panda"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1971",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Tiger"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1972",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Double Dragons"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1973",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Prosperity Prin"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1974",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Prosperity Cats"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1975",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "5 DRAGONS GOLD"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1976",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "BUFFALO GOLD CO"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1977",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "WONDER 4 TALL F"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1978",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "WONDER 4 TOWER"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1979",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "WONDER 4 TALL F"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-1980",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "WONDER 4 TOWER"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2011",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Xtension Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2012",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Xtension Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2013",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Xtension Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2014",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Xtension Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2015",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Xtension Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2016",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Xtension Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2017",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Xtension Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2018",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Xtension Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2019",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Electric Nights"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2020",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Gold Zone"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2021",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Run With The Wo"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2022",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Triple Magic"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2023",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Flying Falcon"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2024",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Golden Lion"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2025",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Prosperity Prin"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2026",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Fu Fu Fu Panda "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2027",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Prosperity Cats"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2028",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Fu Fu Fu Tiger"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2029",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Prosperity Prin"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2030",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Wonder 4 Wonder"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2031",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Xiang - Hao Yun"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2032",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Ji - Hao Yun Lo"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2033",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "WONDER 4 JACKPO"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2034",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Wonder 4 Jackpo"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2035",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Ingots, Hao Yun"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2036",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Treasure, Hao Y"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2037",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Ingots, Hao Yun"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2038",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Treasure, Hao Y"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2039",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Ingots, Hao Yun"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2040",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Treasure, Hao Y"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2041",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Ingots, Hao Yun"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2042",
+		"NombreFabricante": "Ainsworth",
+		"NombreJuego": "Treasure, Hao Y"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2043",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Diamonds, Lock "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2044",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Cats Hats and M"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2045",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Night Life, Loc"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2046",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Diamonds, Lock "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2047",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Piggy Bankin"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2048",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Eureka Reel Bla"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2049",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Hold On Your Ha"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2050",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Piggy Bankin"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2061",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Wonder 4"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2062",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Sparkling Royal"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2063",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Secret of Golde"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2064",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Wonder 4 Stars"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2065",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Panda Paradise"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2066",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Fortune Firecra"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2067",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Wonder 4"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2068",
+		"NombreFabricante": "Aristocrat",
+		"NombreJuego": "Timber Wolf"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2069",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Multi Game 1"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2070",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Multi Game 1"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2071",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Multi Game 1"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2072",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Multi Game 1"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2073",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Multi Game 1"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2074",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Multi Game 2"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2075",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Multi Game 2"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2076",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Multi Game 2"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2077",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Multi Game 2"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2078",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Multi Game 2"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2079",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Tiger & Dragon "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2080",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Da Vinci Diamon"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2081",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Rembrandt Ric M"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2082",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Lucky Koi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2083",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Kitty Glit Gran"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2084",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cai Qing Grand"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2085",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Link King"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2086",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Link King"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2087",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Link King"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2088",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Link King"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2089",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Link King"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2090",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Link King"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2091",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Link King"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2092",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Link King"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2093",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Multi Win 8"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2094",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Golden Lion 2"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2095",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Diamond Dreams"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2096",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Dragon Climber"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2097",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Multi Win 8"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2098",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Gold Zone 2"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2099",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Esmerald Dragon"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2100",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Mayan beauty"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2101",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Jungle Princess"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2102",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Multi Win 8"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2103",
+		"NombreFabricante": "B.C.M.",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2104",
+		"NombreFabricante": "B.C.M.",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2105",
+		"NombreFabricante": "B.C.M.",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2106",
+		"NombreFabricante": "B.C.M.",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2107",
+		"NombreFabricante": "B.C.M.",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2108",
+		"NombreFabricante": "B.C.M.",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2109",
+		"NombreFabricante": "B.C.M.",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2110",
+		"NombreFabricante": "B.C.M.",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2111",
+		"NombreFabricante": "B.C.M.",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2112",
+		"NombreFabricante": "B.C.M.",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2113",
+		"NombreFabricante": "B.C.M.",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2114",
+		"NombreFabricante": "B.C.M.",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2115",
+		"NombreFabricante": "B.C.M.",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2116",
+		"NombreFabricante": "B.C.M.",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2117",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Link Me"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2118",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Link Me"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2119",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Link Me"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2120",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Link Me"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2121",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Link Me"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2122",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Link Me"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2123",
+		"NombreFabricante": "ARUZE",
+		"NombreJuego": "Fu Lai Cai 5 Se"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2124",
+		"NombreFabricante": "ARUZE",
+		"NombreJuego": "Fu Lai Cai 5 Se"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2125",
+		"NombreFabricante": "ARUZE",
+		"NombreJuego": "Fu Lai Cai Trip"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2126",
+		"NombreFabricante": "ARUZE",
+		"NombreJuego": "Fu Lai Cai  Sta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2133",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Red Hot Jocker"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2134",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Dragon of FE"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2135",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Red Hot Jocker"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2136",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Buccaneer"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2137",
+		"NombreFabricante": "Konami",
+		"NombreJuego": "COLOSSAL TITANS"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2138",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "BATS GONE WILD "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2139",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Multigame"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2140",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Multigame"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2141",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Multigame"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2142",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Multigame"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2143",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Multigame"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2144",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Multigame"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2145",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Multigame"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2146",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Multigame"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2147",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2148",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2149",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2150",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2151",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2152",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2153",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "The Great Conqu"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2154",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Emperor s China"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2155",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Empress Of The "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2156",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "The Great Conqu"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2157",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "The Great Conqu"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2158",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Emperor s China"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2159",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Empress Of The "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2160",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Emperor s China"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2161",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "MultiGame Game "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2162",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "MultiGame Game "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2163",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "MultiGame Game "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2164",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "MultiGame Game "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2165",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "MultiGame Game "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2166",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "MultiGame Game "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2167",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Olympus Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2168",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Olympus Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2169",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Olympus Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2170",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Olympus Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2171",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Olympus Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2172",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Olympus Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2173",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Olympus Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2174",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Olympus Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2175",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "U.B Grand Eagle"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2176",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Cash Connection"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2177",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Cash Connection"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2178",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Cash Connection"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2179",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Cash Connection"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2180",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Cash Connection"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2181",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Cash Connection"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2182",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Cash Connection"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2183",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "88 Link Lucky C"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2184",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "88 Link Lucky C"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2185",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "88 Link Lucky C"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2186",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "88 Link Lucky C"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2187",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "88 Link Wild Du"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2188",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "88 Link Wild Du"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2189",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "88 Link Wild Du"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2190",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "88 Link Wild Du"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2191",
+		"NombreFabricante": "ARUZE",
+		"NombreJuego": "Legend C Asian"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2192",
+		"NombreFabricante": "ARUZE",
+		"NombreJuego": "Legend C Egypti"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2193",
+		"NombreFabricante": "ARUZE",
+		"NombreJuego": "Legend C Aztec"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2194",
+		"NombreFabricante": "ARUZE",
+		"NombreJuego": "Legend C Asian"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2195",
+		"NombreFabricante": "ARUZE",
+		"NombreJuego": "Legend C Egypti"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2196",
+		"NombreFabricante": "ARUZE",
+		"NombreJuego": "Legend C Island"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2197",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Endless Fortune"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2198",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Guan Yu"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2199",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Long and Happy "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2200",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Mu Dan Peony"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2201",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Endless Fortune"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2202",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Guan Yu"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2203",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Long and Happy "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2204",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Mu Dan Peony"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2205",
+		"NombreFabricante": "Sielcon",
+		"NombreJuego": "ROULETTE EXTREM"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2206",
+		"NombreFabricante": "Sielcon",
+		"NombreJuego": "ROULETTE EXTREM"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2207",
+		"NombreFabricante": "Sielcon",
+		"NombreJuego": "ROULETTE EXTREM"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2208",
+		"NombreFabricante": "Sielcon",
+		"NombreJuego": "ROULETTE EXTREM"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2209",
+		"NombreFabricante": "Sielcon",
+		"NombreJuego": "ROULETTE EXTREM"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2210",
+		"NombreFabricante": "Sielcon",
+		"NombreJuego": "ROULETTE EXTREM"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2211",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "Money Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2212",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "Money Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2213",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "Money Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2214",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "Money Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2215",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "Money Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2216",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "Money Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2217",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "Money Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2218",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "Money Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2219",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Bashiba Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2220",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Bashiba Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2221",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Bashiba Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2222",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Bashiba Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2223",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Bashiba Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2224",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Bashiba Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2225",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Bashiba Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2226",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Bashiba Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2227",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Cash Connection"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2228",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Cash Connection"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2229",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Cash Connection"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2230",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Cash Connection"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2231",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Cash Connection"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2232",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Cash Connection"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2233",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Cash Connection"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2234",
+		"NombreFabricante": "Novomatic",
+		"NombreJuego": "Cash Connection"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2235",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Master&Mistress"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2236",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Master&Mistress"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2237",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Master&Mistress"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2238",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Master&Mistress"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2239",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Master&Mistress"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2240",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Master&Mistress"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2241",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Master&Mistress"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2242",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Master&Mistress"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2243",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Ramosis"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2244",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Nefturis"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2245",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Ramosis"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2246",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Nefturis"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2247",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Ramosis"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2248",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Nefturis"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2249",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Ramosis"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2250",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Nefturis"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2251",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Ramosis"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2252",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Nefturis"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2253",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Mustang Sp Cash"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2254",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Moon Da Cash St"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2255",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Inca Em Cash St"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2256",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Moon Da Cash St"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2257",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Year Fot Cash S"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2258",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Inca Em Cash St"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2259",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Wheel Of Legend"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2260",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Wheel Of Legend"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2261",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Wheel Of Legend"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2262",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Wheel Of Legend"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2263",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Xtension Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2264",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Xtension Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2265",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Xtension Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2266",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Xtension Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2267",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Xtension Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2268",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Xtension Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2269",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Xtension Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2270",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Xtension Link"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2271",
+		"NombreFabricante": "Interactive",
+		"NombreJuego": "Black Jack"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2272",
+		"NombreFabricante": "Interactive",
+		"NombreJuego": "Black Jack"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2273",
+		"NombreFabricante": "Interactive",
+		"NombreJuego": "Black Jack"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2274",
+		"NombreFabricante": "Magic Dreams",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2275",
+		"NombreFabricante": "Magic Dreams",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2276",
+		"NombreFabricante": "Magic Dreams",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2277",
+		"NombreFabricante": "Magic Dreams",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2278",
+		"NombreFabricante": "Magic Dreams",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2279",
+		"NombreFabricante": "Magic Dreams",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2280",
+		"NombreFabricante": "Magic Dreams",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2281",
+		"NombreFabricante": "Magic Dreams",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2282",
+		"NombreFabricante": "Magic Dreams",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2283",
+		"NombreFabricante": "Magic Dreams",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2284",
+		"NombreFabricante": "Magic Dreams",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2285",
+		"NombreFabricante": "Magic Dreams",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2286",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Carnival Cow "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2287",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Hurricane Horse"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2288",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Marvelous Mouse"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2289",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Terrific Tiger "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2290",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Carnival Cow "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2291",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Hurricane Horse"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2292",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Marvelous Mouse"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2293",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Terrific Tiger "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2294",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cai Yung Heng T"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2295",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wan Yi Ru Shi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2296",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cai Yung Heng T"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2297",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wan Yi Ru Shi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2299",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cai Yung Heng T"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2300",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wan Yi Ru Shi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2301",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cai Yung Heng T"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2302",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wan Yi Ru Shi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2303",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Multi Win 20"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2304",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Multi Win 21"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2305",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Mega Choise Nos"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2306",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Mega Cho Mega S"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2307",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Multi Win 20"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2308",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Multi Win 21"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2309",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Mega Choise Nos"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2310",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Mega Cho Mega S"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2311",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Trea Spir Drago"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2312",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Trea Spi Phoeni"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2313",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Trea Spir Tiger"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2314",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Trea Spi Tortoi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2315",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Trea Spir Drago"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2316",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Trea Spi Phoeni"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2317",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Trea Spir Tiger"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2318",
+		"NombreFabricante": "AGT",
+		"NombreJuego": "Trea Spi Tortoi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2319",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "Phoenix TCJL"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2320",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "Emperor TCJL"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2321",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "Phoenix TCJL"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2322",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "Emperor TCJL"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2323",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "Phoenix TCJL"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2324",
+		"NombreFabricante": "Atronic",
+		"NombreJuego": "Emperor TCJL"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2325",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Epic Kingdon"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2326",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Epic Kingdon"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2327",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Epic Kingdon"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2328",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Epic Kingdon"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2329",
+		"NombreFabricante": "ARUZE",
+		"NombreJuego": "Fanta Dragon Fi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2330",
+		"NombreFabricante": "ARUZE",
+		"NombreJuego": "Fant Dragon Go "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2331",
+		"NombreFabricante": "ARUZE",
+		"NombreJuego": "Fanta Dragon Fi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2332",
+		"NombreFabricante": "ARUZE",
+		"NombreJuego": "Fant Dragon Go "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2333",
+		"NombreFabricante": "ARUZE",
+		"NombreJuego": "Fanta Dragon Fi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2334",
+		"NombreFabricante": "ARUZE",
+		"NombreJuego": "Fant Dragon Go "
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2335",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Mighty Hammer"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2336",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Mighty Hammer"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2337",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Mighty Hammer"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2338",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Mighty Hammer"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2339",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Mighty Hammer"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2340",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Mighty Hammer"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2341",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Mighty Hammer"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2342",
+		"NombreFabricante": "ZITRO",
+		"NombreJuego": "Mighty Hammer"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2343",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "Endl. Treasure"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2344",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "Prancing Pigs"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2345",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "Rising Fortunes"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2346",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "Endl. Treasure"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2347",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "Prancing Pigs"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2348",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "Singing Cats"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2349",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2350",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2351",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2352",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2353",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2354",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2355",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2356",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2357",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2358",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2359",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2360",
+		"NombreFabricante": "Spintec",
+		"NombreJuego": "Ruleta"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2361",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wan Shi Ru Yi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2362",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cai Yung Heng T"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2363",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wan Shi Ru Yi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2364",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cai Yung Heng T"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2365",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wan Shi Ru Yi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2366",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cai Yung Heng T"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2367",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Wan Shi Ru Yi"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2368",
+		"NombreFabricante": "I.G.T.",
+		"NombreJuego": "Cai Yung Heng T"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2369",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "GFF Time Treasu"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2370",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "GFF Time Castle"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2371",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "GFF Time Treasu"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2372",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "GFF Time Castle"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2373",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "GFF Time Treasu"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2374",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "GFF Time Castle"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2375",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "GFF Time Treasu"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-2376",
+		"NombreFabricante": "Scientific Game",
+		"NombreJuego": "GFF Time Castle"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-5001",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Cambio"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-5002",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Cambio"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-5003",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Cambio"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-5004",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Cambio"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-5005",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Cambio"
+	},
+	{
+		"codigo": "",
+		"uuid": "016-5006",
+		"NombreFabricante": "Bally",
+		"NombreJuego": "Cambio"
+	}
+]
