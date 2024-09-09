@@ -30,8 +30,8 @@ const container_types_1 = __importDefault(require("../container.types"));
 let ServicioMaq = class ServicioMaq {
     constructor(sistemaExt) {
         this.sistemaExt = sistemaExt;
-        this.enviarConsultaMaquina = (datosEntrada) => __awaiter(this, void 0, void 0, function* () {
-            const datosMaquina = yield this.sistemaExt.consultaTerminal(datosEntrada);
+        this.enviarConsultaMaquina = (headers, datosEntrada) => __awaiter(this, void 0, void 0, function* () {
+            const datosMaquina = yield this.sistemaExt.consultaTerminal(headers, datosEntrada);
             return datosMaquina;
         });
     }

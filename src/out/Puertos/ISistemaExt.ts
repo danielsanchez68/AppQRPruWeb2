@@ -1,3 +1,3 @@
 export interface ISistemaExt {
-    consultaTerminal(datos:any):Promise<Object>
+    consultaTerminal(headers:any, datos:any):Promise<Object>
 }

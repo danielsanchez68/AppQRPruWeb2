@@ -34,9 +34,11 @@ let ControladorMaq = class ControladorMaq {
             try {
                 const datosEntrada = req.body;
                 //console.log(datosEntrada)
+                const headers = req.headers;
+                //console.log(headers)
                 if (!Object.keys(datosEntrada).length)
                     throw new Error('ERROR: datosEntrada vacío');
-                const datosMaquina = yield this.servicio.enviarConsultaMaquina(datosEntrada);
+                const datosMaquina = yield this.servicio.enviarConsultaMaquina(headers, datosEntrada);
                 res.json(datosMaquina);
             }
             catch (error) {

@@ -1,6 +1,7 @@
 import express from 'express'
 import http from 'http';
 
+
 import config from '../../../config'
 
 import cors from 'cors'
@@ -30,7 +31,7 @@ class UI_HTTP implements IUI {
     private configRouterUsuario() {
         const router = express.Router()
 
-        router.get('/ip', this.controladorUsuario.ip )
+        router.get('/headers', this.controladorUsuario.headers )
 
         return router
     }

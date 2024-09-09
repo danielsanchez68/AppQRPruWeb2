@@ -42,7 +42,7 @@ let UI_HTTP = class UI_HTTP {
     }
     configRouterUsuario() {
         const router = express_1.default.Router();
-        router.get('/ip', this.controladorUsuario.ip);
+        router.get('/headers', this.controladorUsuario.headers);
         return router;
     }
     start() {

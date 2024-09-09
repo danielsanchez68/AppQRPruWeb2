@@ -7,10 +7,10 @@ import { IControladorUsuario } from "./IUsuario"
 export class ControladorUsuario implements IControladorUsuario {
     constructor() {}
     
-    ip = async (req:Request, res:Response) => {
+    headers = async (req:Request, res:Response) => {
         try {
-            const {ip} = req
-            res.json({ip})
+            const {headers} = req
+            res.json({headers})
         }
         catch(error:any) {
             res.status(500).json({errMsg: error.message})

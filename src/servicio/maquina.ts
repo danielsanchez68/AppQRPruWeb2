@@ -13,8 +13,8 @@ class ServicioMaq implements IServicioMaquina {
         @inject(TYPES.ISistemaExt) private sistemaExt:ISistemaExt
     ) {}
 
-    enviarConsultaMaquina = async (datosEntrada:string) => {
-        const datosMaquina:Object = await this.sistemaExt.consultaTerminal(datosEntrada)
+    enviarConsultaMaquina = async (headers:any, datosEntrada:string) => {
+        const datosMaquina:Object = await this.sistemaExt.consultaTerminal(headers, datosEntrada)
         return datosMaquina
     }
 }

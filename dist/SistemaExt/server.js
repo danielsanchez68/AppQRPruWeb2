@@ -30,6 +30,10 @@ const delay_1 = __importDefault(require("./util/delay"));
 const config_1 = __importDefault(require("./config"));
 const inversify_1 = require("inversify");
 const container_types_1 = __importDefault(require("./container.types"));
+const coloring_1 = __importDefault(require("./util/coloring"));
+const timeout_1 = __importDefault(require("./timeout"));
+const nombres_1 = require("./util/nombres");
+const timeOut = new timeout_1.default();
 let Server = class Server {
     constructor(maquinas, ultimosMovimientos) {
         this.maquinas = maquinas;
@@ -41,19 +45,30 @@ let Server = class Server {
         };
         // Crear el servidor TCP
         const server = net_1.default.createServer(options, socket => {
-            //console.log('Client connected');
+            let buffer = '';
+            //https://nodejs.org/docs/latest-v8.x/api/net.html#net_class_net_socket
+            //console.log(`\n[${Date.now()} ${new Date().toLocaleString()}] Client connected: ip[${socket.remoteAddress}] port[${socket.remotePort}]`)
             // Evento para manejar datos recibidos del cliente
             socket.on('data', (data) => __awaiter(this, void 0, void 0, function* () {
-                var _a, _b, _c;
+                var _a, _b, _c, _d;
+                buffer += data;
+                let imei = '';
                 try {
-                    const datosRecibidos = JSON.parse(data);
-                    //console.log('\n> Datos recibidos', JSON.stringify(datosRecibidos), new Date().toLocaleString());
+                    const datosRecibidos = JSON.parse(buffer);
+                    buffer = '';
                     let datosEnviados = {};
                     const cmd = JSON.parse(yield fs_1.default.promises.readFile('./Comandos/listado.json', 'utf-8'));
                     //nuevo server TCP
                     const comando = datosRecibidos === null || datosRecibidos === void 0 ? void 0 : datosRecibidos.Comando;
-                    //console.log(comando)
-                    if ((_b = (_a = cmd[comando]) === null || _a === void 0 ? void 0 : _a.tx) === null || _b === void 0 ? void 0 : _b.Comando) {
+                    imei = datosRecibidos === null || datosRecibidos === void 0 ? void 0 : datosRecibidos.imei;
+                    timeOut.setLive(imei);
+                    // para pruebas
+                    //console.log(timeOut.getLives())
+                    //JSON.parse('Holas')
+                    coloring_1.default.colorLog(timeOut.getColorImei(imei), `[${Date.now()} ${new Date().toLocaleString()}] imei[${imei}] <Cmd: ip[${socket.remoteAddress}] port[${socket.remotePort}] cmd[${comando}]`);
+                    const comandoExists = (_b = (_a = cmd[comando]) === null || _a === void 0 ? void 0 : _a.tx) === null || _b === void 0 ? void 0 : _b.Comando;
+                    if (comandoExists) {
+                        let llenarDatosEnviados = true;
                         //console.log(comando)
                         /* if(
                             comando === 'Operacion_SubirDinero' ||
@@ -62,7 +77,16 @@ let Server = class Server {
                             comando === 'ListaUID' ||
                             comando === 'UltimosMovimientos'
                         ) */ yield (0, delay_1.default)(200);
-                        if (comando == 'ConsultaTerminal') {
+                        if (comando == 'Login') {
+                            //console.log('LOGIN!!!', timeOut.getSendLogin(imei))
+                            if (timeOut.getSendLogin(imei)) {
+                                cmd[comando].rx.Operador = (0, nombres_1.getNombre)() || 'Juan Perez';
+                                timeOut.resetSendLogin(imei);
+                            }
+                            else
+                                llenarDatosEnviados = false;
+                        }
+                        else if (comando == 'ConsultaTerminal') {
                             const codigo = datosRecibidos === null || datosRecibidos === void 0 ? void 0 : datosRecibidos.QR;
                             const maquina = yield this.maquinas.obtenerPorCodigo(codigo);
                             cmd[comando].rx.Fabricante = maquina.NombreFabricante;
@@ -107,21 +131,24 @@ let Server = class Server {
                             cmd[comando].rx.Juego = maquina.NombreJuego;
                             cmd[comando].rx.UID = uuid;
                         }
-                        datosEnviados = (_c = cmd[comando]) === null || _c === void 0 ? void 0 : _c.rx;
+                        if (llenarDatosEnviados) {
+                            datosEnviados = (_c = cmd[comando]) === null || _c === void 0 ? void 0 : _c.rx;
+                            coloring_1.default.colorLog(timeOut.getColorImei(imei), `[${Date.now()} ${new Date().toLocaleString()}] imei[${imei}] >Cmd: ip[${socket.remoteAddress}] port[${socket.remotePort}] cmd[${(_d = cmd[comando]) === null || _d === void 0 ? void 0 : _d.rx.Comando}]`);
+                        }
                     }
-                    //console.log('< Datos enviados', JSON.stringify(datosEnviados), new Date().toLocaleString());
                     // Enviar datos de vuelta al cliente
                     socket.write(JSON.stringify(datosEnviados));
                 }
+                //catch { }
                 catch (error) {
-                    console.log('ERROR:', error.message);
+                    console.log(coloring_1.default.colorString(coloring_1.default.BgRed, 'ERROR:'), coloring_1.default.colorString(timeOut.getColorImei(imei), `imei[${imei}]`), coloring_1.default.colorString(coloring_1.default.BgWhite + coloring_1.default.FgBlack, error.message));
                 }
             }));
-            // Evento cuando se cierra la conexi�n del cliente
+            // Evento cuando se cierra la conexión del cliente
             socket.on('close', () => {
-                //console.log('Client disconnected');
+                //console.log(`[${Date.now()} ${new Date().toLocaleString()}] Client disconnected: ip[${socket.remoteAddress}] port[${socket.remotePort}]`)
             });
-            // Manejar errores de conexi�n
+            // Manejar errores de conexión
             socket.on('error', (err) => {
                 console.error('Connection error:', err);
             });

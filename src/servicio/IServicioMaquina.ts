@@ -1,3 +1,3 @@
 export interface IServicioMaquina {
-    enviarConsultaMaquina: (codigo:string) => Promise<Object>
+    enviarConsultaMaquina: (headers:any, codigo:string) => Promise<Object>
 }

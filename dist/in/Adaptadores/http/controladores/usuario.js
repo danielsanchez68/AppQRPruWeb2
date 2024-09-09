@@ -22,10 +22,10 @@ exports.ControladorUsuario = void 0;
 const inversify_1 = require("inversify");
 let ControladorUsuario = class ControladorUsuario {
     constructor() {
-        this.ip = (req, res) => __awaiter(this, void 0, void 0, function* () {
+        this.headers = (req, res) => __awaiter(this, void 0, void 0, function* () {
             try {
-                const { ip } = req;
-                res.json({ ip });
+                const { headers } = req;
+                res.json({ headers });
             }
             catch (error) {
                 res.status(500).json({ errMsg: error.message });
