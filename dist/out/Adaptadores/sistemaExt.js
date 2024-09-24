@@ -58,10 +58,22 @@ class NetPromise {
             const datosTx = Object.assign({}, datos);
             delete datosTx.FyH;
             delete datosTx.Timestamp;
-            if (datosTx.EMEI)
-                datosTx.IMEI = datosTx.EMEI;
+            const cmd = datosTx.Comando;
+            if (cmd == 'Login') {
+                if (datosTx.EMEI)
+                    datosTx.IMEI = datosTx.EMEI;
+            }
+            else {
+                if (datosTx.EMEI)
+                    datosTx.IdSesion = datosTx.EMEI;
+            }
             delete datosTx.EMEI;
-            datosTx.imei = this.imei;
+            if (cmd == 'Login') {
+                datosTx.imei = this.imei;
+            }
+            else {
+                datosTx.IdSesion = this.imei;
+            }
             console.log(`[${Date.now()} ${new Date().toLocaleString()}] ext> ${JSON.stringify(datosTx)}`);
             let buffer = '';
             const handlerRx = (data) => {

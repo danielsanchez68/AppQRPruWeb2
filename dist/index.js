@@ -6,7 +6,6 @@ Object.defineProperty(exports, "__esModule", { value: true });
 require("reflect-metadata");
 const container_1 = require("./container");
 const container_types_1 = __importDefault(require("./container.types"));
-require("./SistemaExt/index");
 process.on('uncaughtException', function (err) {
     console.log('EXCEPCIÓN:', err.message, err);
 });
